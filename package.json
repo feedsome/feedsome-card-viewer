@@ -1,0 +1,25 @@
+{
+  "name": "feedsome-card-viewer",
+  "version": "1.0.0",
+  "description": "A simple web application that displays notifications as card elements",
+  "keywords": [
+    "angular2",
+    "webpack",
+    "typescript",
+    "feedsome",
+    "context-aware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedsome/feedsome-card-viewer.git"
+  },
+  "author": "gregoavg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedsome/feedsome-card-viewer/issues"
+  },
+  "homepage": "https://github.com/feedsome/feedsome-card-viewer#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
